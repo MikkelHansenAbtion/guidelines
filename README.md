@@ -9,7 +9,7 @@ These guidelines are created with the help of the whole organization. Anyone is 
 
 Anything added to the guideline must have been extracted from a project.
 
-## Jekyll Theme Usage
+## Usage
 
 If jekyll has not been added to your repository, clone it to your computer and run:
 
